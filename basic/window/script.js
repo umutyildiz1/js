@@ -1,0 +1,13 @@
+let val;
+val = window.scrollX;
+val = scrollX;
+val = window.screen;
+val = window.document;
+val = window.document.getElementById("header");
+val = window.location;
+val = window.location.host;
+val = window.location.hostname;
+val = window.location.port;
+val = window.location.protocol;
+val = window.navigator;
+console.log(val);
